@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold;"> Pokemon Battle in C </h1>
 
 <div align="center">
-    <img src="https://imgur.com/51lESci.jpg" alt="battle-screenshot" align="center">
+    <img src="https://imgur.com/51lESci.jpg" alt="battle-screenshot" margin="10px">
 </div>
 
 > Simple Pokemon Battle in C, allowing choice of moves and heal
