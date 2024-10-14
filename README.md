@@ -1,7 +1,11 @@
-# Pokemon-Battle-C
+<h1 align="center" style="font-weight: bold;"> Pokemon Battle in C </h1>
 
-<img src="https://imgur.com/51lESci.jpg" alt="battle-screenshot">
+<div align="center">
+    <img src="https://imgur.com/51lESci.jpg" alt="battle-screenshot" align="center">
+</div>
 
-> Simples batalha Pokemon feita em C, permitindo escolha de movimentos e cura
+> Simple Pokemon Battle in C, allowing choice of moves and heal
 
-<img src="https://imgur.com/d1u5vtp.jpg" alt="battle-screenshot-2">
+<div align="center">
+    <img src="https://imgur.com/d1u5vtp.jpg" alt="battle-screenshot-2">
+</div>    
